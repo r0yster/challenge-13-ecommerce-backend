@@ -3,15 +3,12 @@
 ## Description
 Backend for Ecommerce application with CRUD functionality
 
-## Before you run
-- Create a MySql database for you application
-- Run 'npm run seed' to seed the database
-
 ## Installation
 - Clone repository or download zip folder
 - Log into mysql and run source file schema.sql (mysql> source db/schema.sql)
 - Run 'npm run seed' in Bash terminal
 - Create .env file with:
+  
   DB_NAME = `create database name`
   
   DB_USER = `user connecting to database`
