@@ -16,5 +16,10 @@ Backend for Ecommerce application with CRUD functionality
   DB_PW = `user password`
 - Run 'node server.js' in bash terminal
 
+## Testing Routes
+- localhost:3001/api/tags
+- localhost:3001/api/categories
+- localhost:3001/api/products
+
 ## Application Walkthrough
 https://drive.google.com/file/d/1SsW5MP_uMTjSifIho5IIzotNYvmMmvs5/view
