@@ -13,7 +13,9 @@ Backend for Ecommerce application with CRUD functionality
 - Run 'npm run seed' in Bash terminal
 - Create .env file with:
   DB_NAME = `create database name`
+  
   DB_USER = `user connecting to database`
+  
   DB_PW = `user password`
 - Run 'node server.js' in bash terminal
 
