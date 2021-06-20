@@ -1,1 +1,21 @@
 # challenge-13-ecommerce-backend
+
+## Description
+Backend for Ecommerce application with CRUD functionality
+
+## Before you run
+- Create a MySql database for you application
+- Run 'npm run seed' to seed the database
+
+## Installation
+- Clone repository or download zip folder
+- Log into mysql and run source file schema.sql (mysql> source db/schema.sql)
+- Run 'npm run seed' in Bash terminal
+- Create .env file with:
+  DB_NAME = `create database name`
+  DB_USER = `user connecting to database`
+  DB_PW = `user password`
+- Run 'node server.js' in bash terminal
+
+## Application Walkthrough
+https://drive.google.com/file/d/1SsW5MP_uMTjSifIho5IIzotNYvmMmvs5/view
