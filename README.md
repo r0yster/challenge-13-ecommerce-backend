@@ -1,4 +1,4 @@
-# challenge-13-ecommerce-backend
+# ecommerce-backend
 
 ## Description
 Backend for Ecommerce application with CRUD functionality
